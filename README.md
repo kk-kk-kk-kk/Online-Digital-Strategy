@@ -6,3 +6,5 @@ individuals, organizations and communities.
 Responsibilities:  
 1. Develop Digital strategy in cooperation with Google Zukunftswertatt. 
 2. Optimize the current SEO strategy using fundamentals of Digital Marketing.
+
+Please refer to the PDF file for the presentation
